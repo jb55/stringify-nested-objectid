@@ -1,7 +1,7 @@
 
 # stringify-nested-objectid
-  
-  [![Build Status](https://travis-ci.org/jb55/stringify-nested-objid.svg)](https://travis-ci.org/jb55/stringify-nested-objid)
+
+  [![Build Status](https://travis-ci.org/jb55/stringify-nested-objectid.svg)](https://travis-ci.org/jb55/stringify-nested-objectid)
 
   toString() aka. toHexString() bson ObjectIDs nested in an object
 
