@@ -1,0 +1,23 @@
+{
+  "name": "stringify-nested-objectid",
+  "description": "toString() nested ObjectIDs",
+  "keywords": ["stringify", "ObjectID", "bson"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/stringify-nested-objectid.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "dependencies": {
+    "through2": "^0.6.2",
+    "traverse": "^0.6.6"
+  },
+  "devDependencies": {
+    "bson": "^0.2.15",
+    "expect.js": "*",
+    "mocha": "*"
+  }
+}
